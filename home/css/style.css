@@ -1,0 +1,11 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../images/bg.jpg);
+    background-size: 100% 100%;
+}
+/* .group{
+    background-image: url(../images/hands.jpg);
+    background-size: 100% 100%;
+    background-size: cover;
+} */
